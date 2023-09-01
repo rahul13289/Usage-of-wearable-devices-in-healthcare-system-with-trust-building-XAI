@@ -6,6 +6,8 @@ In this paper, we are measuring and analysing the sample data discharged from we
 
 Various explainable ai algorithm like shap,lime and explainable boosting machine are utilized. The performance of those algorithms and execution time of code are determined with plot.
 
+![image](https://github.com/rahul13289/Usage-of-wearable-devices-in-healthcare-system-with-trust-building-XAI/assets/97829880/106ee5ea-4ff7-4b82-bc77-5fa014400a93)
+
 Explainable AI:
 The explainable AI concept was implemented in project to develop trust in AI model. The AI model before using XAI can be termed as black box.
 There are three main parts of explainable ai:
